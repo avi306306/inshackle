@@ -1,7 +1,7 @@
 #!/bin/bash
-# Inshackle v1.0
-# coded by: @linux_choice
-# github.com/thelinuxchoice/inshackle
+# Inshackle version 1
+# coded by: @nandy121
+# github.com/nandy121/inshackle
 # If you use any part from this code, give me the credits, please, read the License
 
 
